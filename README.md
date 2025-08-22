@@ -4,7 +4,7 @@ This project is a full-stack MERN application (MongoDB, Express.js, React, Node.
 
 I created this system as a practice project to strengthen my full-stack development skills, particularly in:
 
-- Designing relational database schemas with MySQL to store employee records, attendance logs, leave requests, and payroll data.
+- Designing non relational database schemas with MongoDB to store employee records, attendance logs, leave requests, and payroll data.
 
 - Building RESTful APIs using Express.js and Node.js for CRUD operations and business logic.
 
