@@ -1,6 +1,6 @@
-## Employment Management System (MERN + MySQL)
+## Employment Management System (MERN )
 
-This project is a full-stack MERN application (MySQL, Express.js, React, Node.js) designed to streamline employee administration by integrating core HR functions such as attendance tracking, leave management, and payroll processing into a single platform.
+This project is a full-stack MERN application (MongoDB, Express.js, React, Node.js) designed to streamline employee administration by integrating core HR functions such as attendance tracking, leave management, and payroll processing into a single platform.
 
 I created this system as a practice project to strengthen my full-stack development skills, particularly in:
 
@@ -46,7 +46,7 @@ Employee-Management-System-Full-Stack-MERN/
 
 * **Frontend:** React.js, TypeScript, Tailwind CSS, Vite
 * **Backend:** Node.js, Express.js, TypeScript
-* **Database:** MySQL
+* **Database:** MongoDB
 * **Auth:** JWT (JSON Web Tokens), BCRYPT
 
 ---
